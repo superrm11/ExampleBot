@@ -86,6 +86,7 @@ public class Robot extends TimedRobot {
    */
   @Override
   public void teleopInit() {
+    System.out.println("Hello, World!");
   }
 
   /**
